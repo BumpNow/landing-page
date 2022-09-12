@@ -5,7 +5,7 @@ const NavBrand = ({ toggleTheme }) => {
     <div className="flex-1">
       <a className="btn btn-ghost normal-case text-3xl">
     
-        <h1 className="ml-1 lg:mb-1 lg:text-4xl">Bumpr</h1>
+        <h1 className="ml-1 lg:mb-1 lg:text-4xl"><img href="/src/assets/images/bump-logo.png"></img></h1>
       </a>
     </div>
   );
