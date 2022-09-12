@@ -6,7 +6,7 @@ const HeroImage = () => (
     data-aos="fade-up"
     data-aos-delay="300"
   >
-    <div className="w-full lg:w-5/6 content-center">
+    <div className="lg:w-5/6 content-center">
       <img src={heroImage} alt="hero" />
     </div>
   </div>
