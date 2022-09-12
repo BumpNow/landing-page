@@ -7,7 +7,7 @@ const HeroImage = () => (
     data-aos-delay="300"
   >
     <div className="lg:w-5/6 content-center">
-      <img src={heroImage} alt="hero" />
+      <img className="content-center" src={heroImage} alt="hero" />
     </div>
   </div>
 );
